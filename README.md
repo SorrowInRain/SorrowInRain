@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, DiscordJS and Unity**
 
-- 📫 How to reach me **sorrowinrain107@gmail.com**
+- 📫 How to reach me **fiqri.agwar@gmail.com**
 
 - 📄 Know about my experiences [sorrowinrain.github.io](sorrowinrain.github.io)
 

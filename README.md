@@ -3,19 +3,19 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sorrowinrain&label=Profile%20views&color=c47dde&style=flat-square" alt="sorrowinrain" /> </p>
 
-- 🔭 I’m currently working on [Athena Project (Discord Bot)](https://github.com/SorrowInRain/athena-project)
+- 🔭 I’m currently working in [Shopee Indonesia](https://careers.shopee.co.id/)
 
 - 🌱 I’m currently learning **Unreal Engine 5 and Cocos Creator**
 
-- 👨‍💻 My game portfolio are available at [sorrowinrain.itch.io](sorrowinrain.itch.io)
+- 👨‍💻 My game portfolio are available at [sorrowinrain.itch.io](https://sorrowinrain.itch.io)
 
 - 💬 Ask me about **React, DiscordJS and Unity**
 
 - 📫 How to reach me **fiqri.agwar@gmail.com**
 
-- 📄 Know about my experiences [sorrowinrain.github.io](sorrowinrain.github.io)
+- 📄 Know about my experiences [https://fiqriagwar.github.io](https://fiqriagwar.github.io)
 
-- ⚡ Fun fact **I sleep 8 hours in weekdays and 11 in weekend.**
+- ⚡ Fun fact **I love writing and reading, especially fantasy.**
 
 <hr />
 <h3 align="center">Connect with me</h3>
